@@ -1,3 +1,6 @@
 [submodule "IEMDB-back"]
 	path = IEMDB-back
 	url = https://github.com/hamidkhd/IEMDB-back
+[submodule "IEMDB-front"]
+	path = IEMDB-front
+	url = https://github.com/hamidkhd/IEMDB-front
